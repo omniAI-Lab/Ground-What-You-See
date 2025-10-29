@@ -2,4 +2,4 @@
 Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization
 
 ## introduction
-![introduction]('./introduction.png')
+![introduction]('introduction.png')
