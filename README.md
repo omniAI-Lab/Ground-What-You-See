@@ -11,3 +11,6 @@ Three types of illusions in the field of multimodal large models:
 ## 🏆 Performance
 <img src="./performance.png" style="zoom:100%;" />
 
+## 📐 Set up
+
+
