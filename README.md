@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 2. Train
 #### 2.1 cold start  
-train/experiment/main/cold-start/run_sft.sh:
+`train/experiment/main/cold-start/run_sft.sh`
 ```bash
 export DEBUG_MODE="true"
 export LOG_PATH="/train/outputs/Main/ColdStart/debug_log.txt" # define your log path
@@ -66,7 +66,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 torchrun --nproc_per_node="8" \
     --save_only_model false \
 ```
 #### 2.2 RL
-train/experiment/main/RL-OURS/run_grpo.sh:
+`train/experiment/main/RL-OURS/run_grpo.sh`
 ```bash
 export DEBUG_MODE="true"
 export LOG_PATH="/train/outputs/EXPERIENTS/Main/MediumSample/Qwen2.5-VL-7B-GRPO/debug_log.txt"
