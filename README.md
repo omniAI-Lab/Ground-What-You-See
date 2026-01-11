@@ -11,7 +11,7 @@ Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversi
 - [2025/11/08] Our work is accepted by AAAI 2026.🎇🎇🎇
 
 ## 👀 Introduction
-Three types of illusions in the field of multimodal large models:
+**Three types of illusions in the field of multimodal large models:**
 <img src="./intro.png" style="zoom:100%;" />
 
 ## 🧠 Method
