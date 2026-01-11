@@ -3,7 +3,7 @@ Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversi
 
 <div align="center">
 
-[[📖 Paper]()] [[🤗 omni-video-rl-7B](https://huggingface.co/teardrop-gwj/omni-video-rl/tree/main)] [[🤗 Video-R1-train-data](https://huggingface.co/datasets/teardrop-gwj/omni-rl-train-data)]
+[[📖 Paper]()] [[🤗 omni-video-RL-model-7B](https://huggingface.co/teardrop-gwj/omni-video-rl/tree/main)] [[🤗 omni-video-RL-train-data](https://huggingface.co/datasets/teardrop-gwj/omni-rl-train-data)]
 
 </div>
 
