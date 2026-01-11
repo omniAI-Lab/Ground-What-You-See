@@ -1,5 +1,6 @@
 # Ground-What-You-See
 Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization
+[[📖 Paper]()] [[🤗 omni-video-rl-7B]([https://huggingface.co/Video-R1/Video-R1-7B](https://huggingface.co/teardrop-gwj/omni-video-rl/tree/main))] [[🤗 Video-R1-train-data](https://huggingface.co/datasets/teardrop-gwj/omni-rl-train-data)] 
 
 ## 🔥 News
 - [2025/11/08] Our work is accepted by AAAI 2026.🎇🎇🎇
