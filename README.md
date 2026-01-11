@@ -34,10 +34,10 @@ pip install -r requirements.txt
 ### 1. Dataset
 1. Cold-Start Dataset:
 * [Llava-COT](https://huggingface.co/datasets/Xkev/LLaVA-CoT-100k)
-* [Llava-COT-modify-json](https://www.ug.link/dx4600pro-gwj/filemgr/share-download/?id=5ae9374b8b3d4a6cba50a13ec42b0258)
+* [Llava-COT-modify-json](https://huggingface.co/datasets/teardrop-gwj/omni-rl-train-data)
 2. RL Dataset:
 * [Video-R1-Data](https://huggingface.co/datasets/Video-R1/Video-R1-data)
-* [Train_RL_Medium_24K.json](https://ug.link/dx4600pro-gwj/filemgr/share-download/?id=8bd9deb8224044dfb33595c7ef8f21f0)
+* [Train_RL_Medium_24K.json](https://huggingface.co/datasets/teardrop-gwj/omni-rl-train-data)
 
 ### 2. Train
 #### 2.1 cold start  
