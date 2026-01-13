@@ -3,7 +3,7 @@ Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversi
 
 <div align="center">
 
-[[📖 Paper]()] [[🤗 OMNEX-VL-7B](https://huggingface.co/OmniAI-ZJU/OMNEX-VL)] [[🤗 OMNEX-VL-train-data](https://huggingface.co/datasets/OmniAI-ZJU/OMNEX-VL-DATA)]
+[[📖 Paper](https://arxiv.org/abs/2601.06224)] [[🤗 OMNEX-VL-7B](https://huggingface.co/OmniAI-ZJU/OMNEX-VL)] [[🤗 OMNEX-VL-train-data](https://huggingface.co/datasets/OmniAI-ZJU/OMNEX-VL-DATA)]
 
 </div>
 
